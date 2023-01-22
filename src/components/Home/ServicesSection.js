@@ -48,7 +48,7 @@ const ServicesSection = () => {
                
             </div>
 
-            {/* grid starts  */}
+            {/* grid ends */}
 
             <button className='mt-8 btn btn-outline text-orange-600'>More Services <i className='fa-solid fa-arrow-right ml-2'></i></button>
         </div>

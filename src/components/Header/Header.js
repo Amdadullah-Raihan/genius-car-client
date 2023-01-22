@@ -30,9 +30,9 @@ const Header = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <Link className="px-2 "><i class="fa-regular fa-bag-shopping"></i></Link>
-                <Link className="px-2 "><i class="fa-light fa-magnifying-glass"></i></Link>
-                <Link className="border px-4 py-2">Appointment</Link>
+                <Link className="px-2 "><i className="fa-solid fa-bag-shopping "></i></Link>
+                <Link className="px-2 mr-2 "><i className="fa-solid fa-magnifying-glass"></i></Link>
+                <Link className="border px-4 py-2 btn-outline text-orange-600 rounded-md">Appointment</Link>
                 
             </div>
         </div>
