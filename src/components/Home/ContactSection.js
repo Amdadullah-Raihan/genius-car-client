@@ -15,7 +15,7 @@ const ContactSection = () => {
             <div>
                 <div className='flex'>
                     <div className=''>
-                        <i class="fa-regular fa-calendar-days text-white text-4xl"></i>
+                        <i class="fa-solid fa-phone text-white text-4xl"></i>
                     </div>
                     <div className='text-start ml-4'>
                         <small className='text-white'>We are open monday-friday</small>
@@ -26,7 +26,7 @@ const ContactSection = () => {
             <div>
                 <div className='flex'>
                     <div className=''>
-                        <i class="fa-regular fa-calendar-days text-white text-4xl"></i>
+                        <i class="fa-solid fa-location-dot text-white text-4xl"></i>
                     </div>
                     <div className='text-start ml-4'>
                         <small className='text-white'>We are open monday-friday</small>
